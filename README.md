@@ -1,4 +1,4 @@
-# LINE 官方帳號對話匯出
+# LINE Official Account 官方帳號對話匯出
 
 Chrome 擴充功能：在 LINE 官方帳號後台的對話頁按一個按鈕，把整串對話匯出成文字檔。
 
